@@ -7,6 +7,7 @@
 - [mhrv-rs-android-arm64-v8a-v1.9.25](./mhrv-rs-android-arm64-v8a-v1.9.25)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [psiphon3](./psiphon3)
+- [tele-mirror-win-x64](./tele-mirror-win-x64)
 - [watch](./watch)
 
 ---
