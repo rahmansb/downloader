@@ -10,6 +10,7 @@
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [psiphon3](./psiphon3)
 - [tele-mirror-win-x64](./tele-mirror-win-x64)
+- [v2rayNG_2.1.7-fdroid_arm64-v8a](./v2rayNG_2.1.7-fdroid_arm64-v8a)
 - [watch](./watch)
 
 ---
