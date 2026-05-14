@@ -2,6 +2,7 @@
 
 - [100MB](./100MB)
 - [Abdal.Shecan.DNS.1.20.-.x64](./Abdal.Shecan.DNS.1.20.-.x64)
+- [VaydnsVpn-v1.10.1-arm64-v8a](./VaydnsVpn-v1.10.1-arm64-v8a)
 - [mhrv-rs-android-arm64-v8a-v1.9.14](./mhrv-rs-android-arm64-v8a-v1.9.14)
 - [mhrv-rs-android-arm64-v8a-v1.9.23](./mhrv-rs-android-arm64-v8a-v1.9.23)
 - [mhrv-rs-android-arm64-v8a-v1.9.25](./mhrv-rs-android-arm64-v8a-v1.9.25)
